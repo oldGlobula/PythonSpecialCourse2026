@@ -1,0 +1,1 @@
+print(len(x:=input().split())>len({*map(int,x)}))

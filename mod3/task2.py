@@ -1,0 +1,1 @@
+print(f"{n:b}, {n:o}, {n:x}"if(s:=input()).isdigit()and(n:=int(s))>0 else"Неверный ввод")
